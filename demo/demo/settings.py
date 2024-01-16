@@ -127,3 +127,4 @@ SWAGGER_SETTINGS = {
     'LOGIN_URL': 'login',
     'LOGOUT_URL': 'logout',
 }
+SESSION_COOKIE_SECURE = True
